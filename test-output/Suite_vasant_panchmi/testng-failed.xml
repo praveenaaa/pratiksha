@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite_vasant_panchmi]">
+  <test name="Test_vasnt_panchmi99">
+    <classes>
+      <class name="com.test.Verifytest_me_app_Login"/>
+      <class name="com.test.Verifytest_me_app_registration"/>
+    </classes>
+  </test> <!-- Test_vasnt_panchmi99 -->
+</suite> <!-- Failed suite [Suite_vasant_panchmi] -->

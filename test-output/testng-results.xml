@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite_vasant_panchmi" duration-ms="36617" started-at="2020-01-30T05:27:00Z" finished-at="2020-01-30T05:27:37Z">
+    <groups>
+    </groups>
+    <test name="Test_vasnt_panchmi99" duration-ms="36617" started-at="2020-01-30T05:27:00Z" finished-at="2020-01-30T05:27:37Z">
+      <class name="com.test.Verifytest_me_app_registration">
+        <test-method status="PASS" signature="verifyValidRegistration()[pri:0, instance:com.test.Verifytest_me_app_registration@13b6d03]" test-instance-name="" name="verifyValidRegistration" duration-ms="17508" started-at="2020-01-30T10:57:19Z" finished-at="2020-01-30T10:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidRegistration -->
+      </class> <!-- com.test.Verifytest_me_app_registration -->
+      <class name="com.test.Verifytest_me_app_Login">
+        <test-method status="PASS" signature="verifyValidLogin()[pri:0, instance:com.test.Verifytest_me_app_Login@cbc42f]" name="verifyValidLogin" duration-ms="19087" started-at="2020-01-30T10:57:00Z" finished-at="2020-01-30T10:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+      </class> <!-- com.test.Verifytest_me_app_Login -->
+    </test> <!-- Test_vasnt_panchmi99 -->
+  </suite> <!-- Suite_vasant_panchmi -->
+</testng-results>
